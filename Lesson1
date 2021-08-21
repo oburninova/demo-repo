@@ -1,0 +1,28 @@
+Git
+Version Control system
+
+~/code/21b/git-lessons/
+
+Users/olga/.ssh/id_rsa.pub
+
+
+git add name of file
+git add .
+
+git show number of change
+
+git commit -m "add what"
+
+git push
+
+git log
+git log --oneline
+
+git commit
+
+git pull
+
+
+
+
+
